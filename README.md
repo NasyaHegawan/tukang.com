@@ -98,6 +98,17 @@ Data layanan (services) dan pesanan (orders) masih bersifat statik (dummy).
 Navigasi antar halaman sudah interaktif sepenuhnya.
 Belum ada proses login, autentikasi, maupun integrasi API.
 
+# Cara Kerja Program
+1. Saat aplikasi dijalankan, tampil **Splash Screen** berwarna kuning dengan logo aplikasi.  
+   Setelah 2 detik, aplikasi otomatis berpindah ke halaman utama (`MainShell`).
+
+2. **MainShell** berisi navigasi bawah (BottomNavigationBar) dengan 4 menu utama.  
+   Saat pengguna menekan salah satu ikon, konten akan berubah sesuai halaman yang dipilih.
+
+3. Tiap halaman ditulis dalam widget terpisah, menggunakan struktur `Scaffold` dan `ListView`.
+
+4. Data yang ditampilkan (layanan, pesanan, berita, tips) masih berupa **data dummy (statis)** di dalam kode, belum terhubung ke backend.
+
 # Assets yang Dibutuhkan
 ini ditambahkan ke pubspec.yaml:
 
@@ -128,13 +139,24 @@ flutter:
     - assets/images/tips4.png
     - assets/images/avatar.png
 
-## Catatan Tambahan
+# 4. Screenshot Hasil Program
 
-Aplikasi ini bisa dikembangkan lebih lanjut dengan menambahkan:
-Autentikasi login pengguna
-Integrasi API untuk data real
-Firebase untuk notifikasi dan database
-Fitur pembayaran digital
+Berikut hasil tampilan dari masing-masing halaman aplikasi.
+
+### Splash Screen
+![Splash Screen](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/splash.png)
+
+### Dashboard / Beranda
+![Dashboard](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/dashboard.png)
+
+### Halaman Bantuan
+![Bantuan Page](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/bantuan.png)
+
+### Halaman Akun
+![Akun Page](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/akun.png)
+
+Juga saya simpan di Google Drive
+
 
 ## Dibuat oleh
 
