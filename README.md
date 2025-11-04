@@ -144,18 +144,19 @@ flutter:
 Berikut hasil tampilan dari masing-masing halaman aplikasi.
 
 ### Splash Screen
-![Splash Screen](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/splash.png)
+![Splash Screen](https://github.com/NasyaHegawan/tukang.com/blob/main/Screenshot_Slicing.jpg)
 
 ### Dashboard / Beranda
-![Dashboard](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/dashboard.png)
+![Dashboard](https://github.com/NasyaHegawan/tukang.com/blob/main/Screenshot_Dasboard.jpg)
 
 ### Halaman Bantuan
-![Bantuan Page](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/bantuan.png)
+![Bantuan Page](https://github.com/NasyaHegawan/tukang.com/blob/main/Screenshot_Bantuan.jpg)
 
 ### Halaman Akun
-![Akun Page](https://github.com/USERNAME/REPOSITORY/blob/main/screenshots/akun.png)
+![Akun Page](https://github.com/NasyaHegawan/tukang.com/blob/main/Screenshot_Akun.jpg)
 
-Juga saya simpan di Google Drive
+Juga saya simpan di Google Drive 
+(https://drive.google.com/drive/folders/18v3RtpF_x9OKDc-ppA8phQOjxakUlI-r?usp=sharing)
 
 
 ## Dibuat oleh
